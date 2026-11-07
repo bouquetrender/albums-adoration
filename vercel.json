@@ -1,0 +1,11 @@
+{
+  "framework": null,
+  "buildCommand": "",
+  "installCommand": "",
+  "outputDirectory": "public",
+  "functions": {
+    "api/now-playing.mjs": {
+      "maxDuration": 15
+    }
+  }
+}
